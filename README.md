@@ -13,3 +13,13 @@ Project này được xây dựng cho đề tài: **Tìm hiểu ngôn ngữ lậ
 - Hỗ trợ các phép toán cơ bản, nâng cao và một số hàm toán học.
 - Lưu và hiển thị lịch sử phép tính.
 - Xử lý lỗi để chương trình không bị dừng đột ngột khi nhập sai.
+## 2. Cấu trúc thư mục
+
+```text
+python-calculator-project/
+│
+├── main.py       # Mã nguồn chính của chương trình
+├── README.md     # Tài liệu hướng dẫn sử dụng
+├── history.txt   # File lưu lịch sử phép tính
+└── report.md     # Báo cáo ngắn về đề tài
+```
