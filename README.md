@@ -40,3 +40,16 @@ Nếu máy dùng lệnh `python3`, có thể kiểm tra bằng:
 ```bash
 python3 --version
 ```
+## 4. Cách chạy chương trình
+
+Mở Command Prompt hoặc Terminal tại thư mục `python-calculator-project`, sau đó chạy:
+
+```bash
+python main.py
+```
+
+Nếu hệ thống dùng lệnh `python3`, chạy:
+
+```bash
+python3 main.py
+```
