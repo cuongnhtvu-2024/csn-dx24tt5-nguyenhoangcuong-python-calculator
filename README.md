@@ -23,3 +23,20 @@ python-calculator-project/
 ├── history.txt   # File lưu lịch sử phép tính
 └── report.md     # Báo cáo ngắn về đề tài
 ```
+## 3. Yêu cầu môi trường
+
+- Hệ điều hành: Windows, Linux hoặc macOS.
+- Python phiên bản 3.8 trở lên.
+- Không cần cài thêm thư viện ngoài.
+
+Kiểm tra phiên bản Python:
+
+```bash
+python --version
+```
+
+Nếu máy dùng lệnh `python3`, có thể kiểm tra bằng:
+
+```bash
+python3 --version
+```
