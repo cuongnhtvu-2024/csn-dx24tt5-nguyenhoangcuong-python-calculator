@@ -1,4 +1,8 @@
-## Máy tính cầm tay Python
+# 🧮 Python Calculator Project
+
+## 📌 Giới thiệu
+Đây là chương trình máy tính viết bằng Python.
+# Máy tính cầm tay Python
 
 Project này được xây dựng cho đề tài: **Tìm hiểu ngôn ngữ lập trình Python và viết chương trình máy tính cầm tay**.
 
