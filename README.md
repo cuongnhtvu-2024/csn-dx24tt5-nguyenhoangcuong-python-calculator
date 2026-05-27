@@ -1,4 +1,4 @@
-# Máy tính cầm tay Python
+## Máy tính cầm tay Python
 
 Project này được xây dựng cho đề tài: **Tìm hiểu ngôn ngữ lập trình Python và viết chương trình máy tính cầm tay**.
 
