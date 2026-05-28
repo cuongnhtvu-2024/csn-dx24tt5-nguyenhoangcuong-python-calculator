@@ -8,6 +8,7 @@ Project này được xây dựng cho đề tài: **Tìm hiểu ngôn ngữ lậ
 
 Ứng dụng sử dụng **Python** và thư viện giao diện đồ họa **Tkinter**. Tkinter là thư viện có sẵn trong Python nên người dùng không cần cài đặt thêm thư viện bên ngoài.
 
+## 🎯 Mục tiêu project
 ## 1. Mục tiêu project
 
 - Tìm hiểu cú pháp và cách lập trình bằng Python.
