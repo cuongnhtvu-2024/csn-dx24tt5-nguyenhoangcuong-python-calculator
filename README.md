@@ -17,7 +17,7 @@ Project này được xây dựng cho đề tài: **Tìm hiểu ngôn ngữ lậ
 - Lưu và hiển thị lịch sử phép tính.
 - Xử lý lỗi để chương trình không bị dừng đột ngột khi nhập sai.
 
-## 2. Cấu trúc thư mục
+## 📂 Cấu trúc thư mục
 
 ```text
 python-calculator-project/
