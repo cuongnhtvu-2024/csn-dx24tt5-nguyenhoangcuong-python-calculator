@@ -28,7 +28,7 @@ python-calculator-project/
 └── report.md     # Báo cáo ngắn về đề tài
 ```
 
-## 3. Yêu cầu môi trường
+## 🖥️ 3. Yêu cầu môi trường
 
 - Hệ điều hành: Windows, Linux hoặc macOS.
 - Python phiên bản 3.8 trở lên.
