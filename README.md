@@ -46,8 +46,7 @@ Nếu máy dùng lệnh `python3`, có thể kiểm tra bằng:
 python3 --version
 ```
 
-## 4. Cách chạy chương trình
-
+## 🚀 Cách chạy chương trình
 Mở Command Prompt hoặc Terminal tại thư mục `python-calculator-project`, sau đó chạy:
 
 ```bash
