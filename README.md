@@ -59,22 +59,21 @@ Nếu hệ thống dùng lệnh `python3`, chạy:
 python3 main.py
 ```
 
-## 5. Chức năng chính
+## 🧮 5. Chức năng chính
 
-### 5.1. Phép toán cơ bản
+### ➕ 5.1. Phép toán cơ bản
 
 - Cộng: `+`
 - Trừ: `-`
 - Nhân: `*`
 - Chia: `/`
 
-### 5.2. Phép toán nâng cao
-
+### 🚀 5.2. Phép toán nâng cao
 - Lũy thừa: nút `^`, được xử lý thành toán tử `**` trong Python.
 - Căn bậc hai: nút `√`, được xử lý thành hàm `sqrt()`.
 - Chia lấy dư: `%`.
 
-### 5.3. Hàm toán học
+### 📐 5.3. Hàm toán học
 
 - `sin()`
 - `cos()`
