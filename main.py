@@ -17,7 +17,7 @@ class CalculatorApp:
     def __init__(self, root):
         self.root = root
         self.root.title("Máy tính cầm tay Python")
-        self.root.geometry("520x650")
+        self.root.geometry("520x750")
         self.root.minsize(480, 600)
         self.root.configure(bg="#eef2f7")
 
