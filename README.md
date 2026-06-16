@@ -94,7 +94,7 @@ Ví dụ:
   10%3 = 1
   ```
 
-## 6. Chức năng giao diện
+## 🎨 6. Chức năng giao diện
 
 - Ô hiển thị biểu thức và kết quả.
 - Các nút số từ 0 đến 9.
@@ -106,7 +106,7 @@ Ví dụ:
 - Khu vực hiển thị lịch sử phép tính.
 - Nút xóa lịch sử.
 
-## 7. Lịch sử phép tính
+## 📜 7. Lịch sử phép tính
 
 Sau mỗi phép tính thành công, chương trình sẽ:
 
@@ -114,7 +114,7 @@ Sau mỗi phép tính thành công, chương trình sẽ:
 2. Lưu lịch sử vào file `history.txt`.
 3. Tự động đọc lại lịch sử cũ khi mở chương trình lần sau.
 
-## 8. Xử lý lỗi
+## ⚠️ 8. Xử lý lỗi
 
 Chương trình có xử lý các lỗi thường gặp:
 
@@ -125,7 +125,7 @@ Chương trình có xử lý các lỗi thường gặp:
 
 Khi có lỗi, chương trình hiển thị hộp thoại thông báo thay vì bị crash.
 
-## 9. Ghi chú về an toàn khi tính toán biểu thức
+🛡️ 9. Ghi chú về an toàn khi tính toán biểu thức
 
 Chương trình có sử dụng `eval()` để tính biểu thức, nhưng đã giới hạn môi trường thực thi:
 
@@ -134,7 +134,7 @@ Chương trình có sử dụng `eval()` để tính biểu thức, nhưng đã 
 
 Cách làm này giúp chương trình an toàn hơn so với việc dùng `eval()` trực tiếp không kiểm soát.
 
-## 10. Gợi ý cải tiến
+🚀 10. Gợi ý cải tiến
 
 - Thêm bàn phím vật lý để nhập biểu thức.
 - Thêm giao diện dark mode.
