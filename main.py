@@ -1,6 +1,6 @@
 """
 Chương trình: Máy tính cầm tay Python
-Tác giả: Sinh viên CNTT
+Tác giả: Sinh viên Nguyễn Hoàng Cương - DX24TT5
 Mô tả: Ứng dụng máy tính cầm tay có giao diện Tkinter, hỗ trợ các phép toán cơ bản,
 nâng cao, hàm toán học và lưu lịch sử phép tính.
 """
